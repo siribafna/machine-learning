@@ -1,2 +1,4 @@
-# machine-learning
-Introduction to Machine Learning Models
+# Introduction to Machine Learning
+
+Contains simple models of Machine Learning coded in R / Python
+
